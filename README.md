@@ -1,5 +1,5 @@
 <!-- ===== Animated header ===== -->
-<img src="banner.gif" width="100%" alt="Sai Swarup Mishra - Python Full Stack Developer with AI" />
+<img src="Preview_with_profile_photo.png" width="100%" alt="Sai Swarup Mishra - Python Full Stack Developer with AI" />
 
 <div align="center">
 
@@ -43,10 +43,11 @@ Open to collaboration, projects and learning together. Feel free to connect with
 
 </div>
 
+
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=saiswarupmishra1212-design&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=saiswarupmishra1212-design&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
@@ -61,6 +62,22 @@ Open to collaboration, projects and learning together. Feel free to connect with
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
+
+
+
+## 🏅 My Achievements
+<div align="center">
+
+![Python](https://img.shields.io/badge/🐍_Python-Developer-3776AB?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/💻_Full_Stack-Learner-ff9c00?style=for-the-badge)
+![AI ML](https://img.shields.io/badge/🤖_AI_%26_ML-Enthusiast-8A2BE2?style=for-the-badge)
+![Student](https://img.shields.io/badge/🎓_CSE-Student-0077B5?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/🌱_Open_Source-Contributor-2ea44f?style=for-the-badge)
+![Learning](https://img.shields.io/badge/🚀_Always-Learning-e34c26?style=for-the-badge)
+
+</div>
+
+
 
 # 📊 GitHub Stats:
 
@@ -113,6 +130,8 @@ Open to collaboration, projects and learning together. Feel free to connect with
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiswarupmishra1212-design)
 
 <!-- LinkedIn / Instagram / X (optional): add your badge here with your own profile link -->
+<a href="https://github.com/saiswarupmishra1212-design"><img src="https://img.shields.io/badge/GitHub-saiswarupmishra1212--design-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/sai-swarup-mishra-9bb81639a"><img src="https://img.shields.io/badge/LinkedIn-Sai%20Swarup%20Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
